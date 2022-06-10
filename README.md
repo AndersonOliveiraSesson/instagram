@@ -1,4 +1,4 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+Olá, tudo bem? Preciso dizer que não foi simples chegar até aqui, mas estou caminhando passo  a passo.
 
 Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
 
